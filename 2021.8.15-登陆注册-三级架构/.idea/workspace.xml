@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="2021.8.15-登陆注册-三级架构:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c738afc-7bc4-4ae2-a080-06baf20af8ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myregister@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myregister@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myregister@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myregister: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1wk2orBye5pOvdUJfpXfhjoQwp2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.westos.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\du1124\IdeaProjects\2021.8.15-登陆注册-三级架构\web\js" />
+      <recent name="C:\Users\du1124\IdeaProjects\2021.8.15-登陆注册-三级架构\web" />
+      <recent name="C:\Users\du1124\IdeaProjects\2021.8.15-登陆注册-三级架构\src\org\westos\utils" />
+      <recent name="C:\Users\du1124\IdeaProjects\2021.8.15-登陆注册-三级架构\src" />
+      <recent name="C:\Users\du1124\IdeaProjects\2021.8.15-登陆注册-三级架构\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.69">
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.westos.demo.MyTest" />
+      <module name="2021.8.15-登陆注册-三级架构" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.westos.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.69" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="2021.8.15-登陆注册-三级架构:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/2021_8_15___war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_69_2021_8_15-登陆注册-三级架构" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58931" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="2021.8.15-登陆注册-三级架构:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c738afc-7bc4-4ae2-a080-06baf20af8ad" name="Default Changelist" comment="" />
+      <created>1628988444197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628988444197</updated>
+      <workItem from="1628988448167" duration="20870000" />
+      <workItem from="1629074250136" duration="4816000" />
+      <workItem from="1629163269812" duration="270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629022561940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1629022561940" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1629007129514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1629007129514" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629022603509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1629022603509" />
+    <state width="1024" height="307" key="GridCell.Tab.0.bottom" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.0.center" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.0.left" timestamp="1629163542120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1629163542120" />
+    <state width="1024" height="307" key="GridCell.Tab.0.right" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.1.bottom" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.1.center" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.1.left" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.1.right" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.2.bottom" timestamp="1629163542122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1629163542122" />
+    <state width="1024" height="307" key="GridCell.Tab.2.center" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.2.left" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state width="1024" height="307" key="GridCell.Tab.2.right" timestamp="1629163542121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="307" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1629163542121" />
+    <state x="178" y="0" key="new project wizard" timestamp="1629163539060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1629163539060" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Desktop/数据库课件/20210813-Servlet和JSP课件/代码/20210813-会话技术-上午/src/org/westos/demo/LoginServlet.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
